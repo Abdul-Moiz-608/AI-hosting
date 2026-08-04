@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en"><head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Hosting Platform</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"><link href="/static/styles.css" rel="stylesheet">
+</head><body><main class="container py-5"><div class="row justify-content-center"><div class="col-lg-10">
+  <p class="text-uppercase text-primary fw-bold mb-1">Phase 1 · Onboarding</p><h1>Connect a server safely</h1><p class="lead text-secondary">No VPS password is requested. Add the generated public key, then run one bootstrap command.</p>
+  <p class="small mb-3">🔗 Public tunnel: <a id="tunnel-status" class="d-none text-success fw-semibold" target="_blank" rel="noopener noreferrer"></a><span id="tunnel-offline" class="text-warning">starting…</span></p>
+  <section class="card shadow-sm mt-4"><div class="card-body p-4"><h2 class="h4">Deploy a GitHub repository</h2>
+    <form id="repository-form" class="row g-2 align-items-end"><div class="col-md-9"><label class="form-label" for="repository-url">GitHub HTTPS or SSH URL</label><input id="repository-url" name="repository_url" class="form-control" placeholder="https://github.com/owner/repo" required></div><div class="col-md-3"><button class="btn btn-outline-primary w-100" type="submit">Validate repository</button></div></form>
+    <div id="repository-error" class="alert alert-danger mt-3 d-none mb-0"></div>
+    <article id="repository-card" class="repository-card mt-3 d-none"><div class="d-flex justify-content-between"><h3 id="repository-name" class="h5 mb-0"></h3><span id="repository-visibility" class="badge text-bg-secondary"></span></div><div id="repository-details" class="small text-secondary mt-2"></div><div id="repository-flags" class="small mt-2"></div><button id="deploy-button" class="btn btn-primary mt-3" disabled>Deploy</button><div id="job-result" class="small mt-3 d-none"></div></article>
+  </div></section>
+  <div class="row g-4 mt-1"><section class="col-md-5"><div class="card shadow-sm h-100"><div class="card-body p-4"><h2 class="h4">1. Add a server</h2><form id="server-form">
+    <label class="form-label">Label</label><input name="label" class="form-control mb-3" placeholder="Production GPU VPS" required>
+    <label class="form-label">Host / IP</label><input name="host" class="form-control mb-3" placeholder="203.0.113.10" required>
+    <label class="form-label">SSH port</label><input name="ssh_port" class="form-control mb-3" type="number" value="22" min="1" max="65535" required>
+    <button class="btn btn-primary w-100">Generate access</button></form></div></div></section>
+  <section class="col-md-7"><div class="card shadow-sm h-100"><div class="card-body p-4"><h2 class="h4">2. Finish access</h2><div id="empty-state" class="text-secondary">Your public key and one-time bootstrap command will appear here.</div><div id="onboarding" class="d-none">
+    <p class="small mb-1">Public API URL:</p><a id="public-url" target="_blank" rel="noopener noreferrer"></a>
+    <p class="small mb-1">Add this public key to <code>~/.ssh/authorized_keys</code> on the VPS:</p><pre id="public-key"></pre><button class="btn btn-outline-secondary btn-sm copy" data-copy="public-key">Copy key</button>
+    <p class="small mt-3 mb-1">Then run this command on the VPS (expires in 30 minutes):</p><pre id="bootstrap-command"></pre><button class="btn btn-outline-secondary btn-sm copy" data-copy="bootstrap-command">Copy command</button>
+  </div></div></div></section></div>
+  <section class="mt-5"><h2 class="h4">Servers</h2><div id="server-list" class="row g-3"><p class="text-secondary">Loading…</p></div></section>
+</div></div></main><script src="/static/app.js"></script></body></html>

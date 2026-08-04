@@ -1,0 +1,190 @@
+OpenSSH_for_Windows_9.5p2, LibreSSL 3.8.2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/config error:2
+debug3: Failed to open file:C:/ProgramData/ssh/ssh_config error:2
+debug3: expanded UserKnownHostsFile '~/.ssh/known_hosts' -> 'C:\\Users\\LAPTOP GODAM/.ssh/known_hosts'
+debug3: expanded UserKnownHostsFile '~/.ssh/known_hosts2' -> 'C:\\Users\\LAPTOP GODAM/.ssh/known_hosts2'
+debug2: resolving "free.pinggy.io" port 443
+debug3: resolve_host: lookup free.pinggy.io:443
+debug3: ssh_connect_direct: entering
+debug1: Connecting to free.pinggy.io [172.236.148.125] port 443.
+debug1: Connection established.
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_rsa error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_rsa.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_rsa error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_rsa type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_rsa-cert error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_rsa-cert.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_rsa-cert error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_rsa-cert type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa-cert error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa-cert.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa-cert error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa-cert type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa_sk error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa_sk.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa_sk error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa_sk type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa_sk-cert error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa_sk-cert.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ecdsa_sk-cert error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa_sk-cert type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519 error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519 error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519 type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519-cert error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519-cert.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519-cert error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519-cert type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519_sk error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519_sk.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519_sk error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519_sk type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519_sk-cert error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519_sk-cert.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_ed25519_sk-cert error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519_sk-cert type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_xmss error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_xmss.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_xmss error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_xmss type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_xmss-cert error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_xmss-cert.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_xmss-cert error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_xmss-cert type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_dsa error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_dsa.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_dsa error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_dsa type -1
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_dsa-cert error:2
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_dsa-cert.pub error:2
+debug3: failed to open file:C:/Users/LAPTOP GODAM/.ssh/id_dsa-cert error:2
+debug1: identity file C:\\Users\\LAPTOP GODAM/.ssh/id_dsa-cert type -1
+debug1: Local version string SSH-2.0-OpenSSH_for_Windows_9.5
+debug1: Remote protocol version 2.0, remote software version Pinggy.IO
+debug1: compat_banner: no match: Pinggy.IO
+debug2: fd 3 setting O_NONBLOCK
+debug1: Authenticating to free.pinggy.io:443 as 'laptop godam'
+debug3: put_host_port: [free.pinggy.io]:443
+debug3: record_hostkey: found key type RSA in file C:\\Users\\LAPTOP GODAM/.ssh/known_hosts:5
+debug3: load_hostkeys_file: loaded 1 keys from [free.pinggy.io]:443
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/known_hosts2 error:2
+debug1: load_hostkeys: fopen C:\\Users\\LAPTOP GODAM/.ssh/known_hosts2: No such file or directory
+debug3: Failed to open file:C:/ProgramData/ssh/ssh_known_hosts error:2
+debug1: load_hostkeys: fopen __PROGRAMDATA__\\ssh/ssh_known_hosts: No such file or directory
+debug3: Failed to open file:C:/ProgramData/ssh/ssh_known_hosts2 error:2
+debug1: load_hostkeys: fopen __PROGRAMDATA__\\ssh/ssh_known_hosts2: No such file or directory
+debug3: order_hostkeyalgs: prefer hostkeyalgs: rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-256
+debug3: send packet: type 20
+debug1: SSH2_MSG_KEXINIT sent
+debug3: receive packet: type 20
+debug1: SSH2_MSG_KEXINIT received
+debug2: local client KEXINIT proposal
+debug2: KEX algorithms: curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c,kex-strict-c-v00@openssh.com
+debug2: host key algorithms: rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-256,ssh-ed25519-cert-v01@openssh.com,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,sk-ssh-ed25519-cert-v01@openssh.com,sk-ecdsa-sha2-nistp256-cert-v01@openssh.com,ssh-ed25519,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com
+debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+debug2: MACs ctos: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512
+debug2: MACs stoc: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512
+debug2: compression ctos: none,zlib@openssh.com,zlib
+debug2: compression stoc: none,zlib@openssh.com,zlib
+debug2: languages ctos: 
+debug2: languages stoc: 
+debug2: first_kex_follows 0 
+debug2: reserved 0 
+debug2: peer server KEXINIT proposal
+debug2: KEX algorithms: curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group18-sha512,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha256,kex-strict-s-v00@openssh.com
+debug2: host key algorithms: rsa-sha2-512,rsa-sha2-256
+debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com,aes256-ctr,aes192-ctr,aes128-ctr
+debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com,aes256-ctr,aes192-ctr,aes128-ctr
+debug2: MACs ctos: hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha2-512
+debug2: MACs stoc: hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha2-512
+debug2: compression ctos: none,zlib@openssh.com
+debug2: compression stoc: none,zlib@openssh.com
+debug2: languages ctos: 
+debug2: languages stoc: 
+debug2: first_kex_follows 0 
+debug2: reserved 0 
+debug3: kex_choose_conf: will use strict KEX ordering
+debug1: kex: algorithm: curve25519-sha256
+debug1: kex: host key algorithm: rsa-sha2-512
+debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug3: send packet: type 30
+debug1: expecting SSH2_MSG_KEX_ECDH_REPLY
+debug3: receive packet: type 31
+debug1: SSH2_MSG_KEX_ECDH_REPLY received
+debug1: Server host key: ssh-rsa SHA256:nFd5rfJMGuZXvfeRzJ/BtT3TfksAxTWMajcrHRcI7AM
+debug3: put_host_port: [172.236.148.125]:443
+debug3: put_host_port: [free.pinggy.io]:443
+debug3: record_hostkey: found key type RSA in file C:\\Users\\LAPTOP GODAM/.ssh/known_hosts:5
+debug3: load_hostkeys_file: loaded 1 keys from [free.pinggy.io]:443
+debug3: Failed to open file:C:/Users/LAPTOP GODAM/.ssh/known_hosts2 error:2
+debug1: load_hostkeys: fopen C:\\Users\\LAPTOP GODAM/.ssh/known_hosts2: No such file or directory
+debug3: Failed to open file:C:/ProgramData/ssh/ssh_known_hosts error:2
+debug1: load_hostkeys: fopen __PROGRAMDATA__\\ssh/ssh_known_hosts: No such file or directory
+debug3: Failed to open file:C:/ProgramData/ssh/ssh_known_hosts2 error:2
+debug1: load_hostkeys: fopen __PROGRAMDATA__\\ssh/ssh_known_hosts2: No such file or directory
+debug1: Host '[free.pinggy.io]:443' is known and matches the RSA host key.
+debug1: Found key in C:\\Users\\LAPTOP GODAM/.ssh/known_hosts:5
+debug3: send packet: type 21
+debug1: ssh_packet_send2_wrapped: resetting send seqnr 3
+debug2: ssh_set_newkeys: mode 1
+debug1: rekey out after 134217728 blocks
+debug1: SSH2_MSG_NEWKEYS sent
+debug1: expecting SSH2_MSG_NEWKEYS
+debug3: receive packet: type 21
+debug1: ssh_packet_read_poll2: resetting read seqnr 3
+debug1: SSH2_MSG_NEWKEYS received
+debug2: ssh_set_newkeys: mode 0
+debug1: rekey in after 134217728 blocks
+debug3: ssh_get_authentication_socket_path: path '\\\\.\\pipe\\openssh-ssh-agent'
+debug3: unable to connect to pipe \\\\.\\pipe\\openssh-ssh-agent, error: 2
+debug1: get_agent_identities: ssh_get_authentication_socket: No such file or directory
+debug1: Will attempt key: C:\\Users\\LAPTOP GODAM/.ssh/id_rsa 
+debug1: Will attempt key: C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa 
+debug1: Will attempt key: C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa_sk 
+debug1: Will attempt key: C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519 
+debug1: Will attempt key: C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519_sk 
+debug1: Will attempt key: C:\\Users\\LAPTOP GODAM/.ssh/id_xmss 
+debug1: Will attempt key: C:\\Users\\LAPTOP GODAM/.ssh/id_dsa 
+debug2: pubkey_prepare: done
+debug3: send packet: type 5
+debug3: receive packet: type 7
+debug1: SSH2_MSG_EXT_INFO received
+debug1: kex_input_ext_info: server-sig-algs=<ssh-ed25519-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp256-cert-v01@openssh.com,sk-ecdsa-sha2-nistp256-cert-v01@openssh.com,rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-ed25519,ecdsa-sha2-nistp521,ecdsa-sha2-nistp384,ecdsa-sha2-nistp256,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com,rsa-sha2-512,rsa-sha2-256>
+debug3: receive packet: type 6
+debug2: service_accept: ssh-userauth
+debug1: SSH2_MSG_SERVICE_ACCEPT received
+debug3: send packet: type 50
+debug3: receive packet: type 51
+debug1: Authentications that can continue: publickey,password
+debug3: start over, passed a different list publickey,password
+debug3: preferred publickey,keyboard-interactive,password
+debug3: authmethod_lookup publickey
+debug3: remaining preferred: keyboard-interactive,password
+debug3: authmethod_is_enabled publickey
+debug1: Next authentication method: publickey
+debug1: Trying private key: C:\\Users\\LAPTOP GODAM/.ssh/id_rsa
+debug3: no such identity: C:\\Users\\LAPTOP GODAM/.ssh/id_rsa: No such file or directory
+debug1: Trying private key: C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa
+debug3: no such identity: C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa: No such file or directory
+debug1: Trying private key: C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa_sk
+debug3: no such identity: C:\\Users\\LAPTOP GODAM/.ssh/id_ecdsa_sk: No such file or directory
+debug1: Trying private key: C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519
+debug3: no such identity: C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519: No such file or directory
+debug1: Trying private key: C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519_sk
+debug3: no such identity: C:\\Users\\LAPTOP GODAM/.ssh/id_ed25519_sk: No such file or directory
+debug1: Trying private key: C:\\Users\\LAPTOP GODAM/.ssh/id_xmss
+debug3: no such identity: C:\\Users\\LAPTOP GODAM/.ssh/id_xmss: No such file or directory
+debug1: Trying private key: C:\\Users\\LAPTOP GODAM/.ssh/id_dsa
+debug3: no such identity: C:\\Users\\LAPTOP GODAM/.ssh/id_dsa: No such file or directory
+debug2: we did not send a packet, disable method
+debug3: authmethod_lookup password
+debug3: remaining preferred: ,password
+debug3: authmethod_is_enabled password
+debug1: Next authentication method: password
